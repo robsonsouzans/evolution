@@ -1,0 +1,11 @@
+{
+  "name": "evolution",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2" // ou qualquer dependência específica do Evolution 2.0
+  }
+}
